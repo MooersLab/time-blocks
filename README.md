@@ -3,13 +3,14 @@
 
 # Form for daily schedule as time blocks
 
-PDF contains a two page form. 
-- Enter planned activites to the leftmost column.
-- When an interuption occurs or time on one activity is extended, add the extension in the next column to the right and enter revision column.
+The file `main.pdf` contains a two-page form. 
+- Enter planned activities in the leftmost column.
+- When an interruption occurs or time spent on one activity is extended, add the extension in the next column to the right and enter the revised schedule below it.
 - If you need more than three revised schedules, you have a time management problem!
 
-The PDF was generated form the main.tex file with LaTeX.
-Edited to suit your own schedule.
+The PDF was generated from the `main.tex` file with LaTeX.
+Edited the `main.tex` file to suit your own schedule.
+The form spares you of the need to pack around a ruler all day.
 
 
 ## Update history
