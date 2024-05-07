@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/static/v1?label=time-blocks&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Form for daily schedule as time blocks
+# Form for managing daily schedule as time blocks
 
 The file `main.pdf` contains a two-page form. 
 - Enter planned activities in the leftmost column.
@@ -16,7 +16,7 @@ The form spares you of the need to pack around a ruler all day.
 ## Update history
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |  Added badges funding, and update table                                                                                                             | 2024 May 4        |
+| Version 0.2 |  Added badges funding, and update table                                                                                                    | 2024 May 4           |
 
 
 ## Funding
