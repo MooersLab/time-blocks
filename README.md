@@ -70,6 +70,7 @@ I have a simple system, but that is another story.
 The schedule for our superhuman academic hardwires five hours of progress on three vital writing projects before the first lab member arrives for the day.
 In practice, there should be a 15-minute break between writing projects to ease switching between projects.
 In addition, due to mental bandwidth limitations, it is easier to work on two parallel projects rather than on three.
+The file *wired2.pdf* has a three-hour time block for project A and a two-hour block for project B.
 
 The rest of the day can be spent on supportive activities for writing projects like data analysis, figure preparation, slideshow preparation, literature retrieval, and reading.
 In reality, the remainder of the day is often spent on supervising, teaching, meetings, and administrative chores.
@@ -79,7 +80,7 @@ In reality, the remainder of the day is often spent on supervising, teaching, me
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.2 |  Added badges funding, and update table                                                                                                    | 2024 May 4           |
-| Version 0.3 | Elaborated on why and how to use this form.  Added the wired variant and included an image                                                 | 2024 June 2          |
+| Version 0.3 | Elaborated on why and how to use this form.  Added the wired variants and included images.                                                 | 2024 June 2          |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
