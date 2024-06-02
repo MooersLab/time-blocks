@@ -24,11 +24,12 @@ This form is at the heart of Dr. Newport's comprehensive approach, which includi
 He describes his full approach in his 2020 book *Time-Block Planner: A Daily Method of Deep Work in a Distracted World*.
 
 I do not follow his full approach because I manage my to-dos in *org-agenda* in *Emacs*.
-I should not need this paper form and should do everything in *org-agenda*.
+I should not need this paper form because I could do it in *org-agenda*.
 However, I like the portability and flexibility of the paper form.
 I carry it around with me on a clipboard.
 
-For visitors who are Emacsens, the table present here could be re-implemented as an org table in an org file.
+For Emacsens, the table presented here could be re-implemented as an org table in an org file.
+It could also be re-implemented in Mardown and Typst.
 
 At the end of the day, you can reflect on the origins of the schedule changes and the amount of time required to complete certain tasks.
 This information informs the setting up of future schedules.
@@ -50,19 +51,34 @@ The PDF was generated from the `main.tex` file with LaTeX.
 Edit the `main.tex` file to suit your own schedule. 
 The form eliminates the need to carry a ruler around all day to draw the columns and time blocks.
 
-## Potential modifications
+## Wired variant for recurring events
 
-If you follow a rigid writing schedule and write when you are unlikely to be disrupted, like really early in the morning, you could modify the form to contain one to three time blocks of 90-180 minutes dedicated to a writing project.
-These could be labeled with A, B, and C by editing the main.tex file or by editing a paper version and then scanning and printing it.
-You could change which writing project is assigned to time blocks A, B, and C throughout the week as needed.
+The wired variant demonstrates how to be more efficient when recurring events occur, such as in a writing schedule.
+The recurring nature of these tasks hardwires them into your daily schedule, so you do not have to waste time and energy scheduling them.
 
+If you follow a rigid writing schedule for generative writing and write when you are unlikely to be disrupted, like before other workers show up, you could modify the form to contain one to three-time blocks of 90-180 minutes dedicated to a writing project.
+The example above shows three time blocks of 120, 90, and 90 minutes each.
+These are labeled writing blocks A, B, and C.
+
+You can assign these time blocks to different writing projects in the row at the top.
+The order of assignments could vary daily to break the temporal context.
+Also, the three writing projects selected can be varied during the course of a week. 
+I use a project number with a keyword as a memory prompt for the project's name.
+I have a simple system, but that is another story.
+
+The schedule for our superhuman academic hardwires five hours of progress on three vital writing projects before the first lab member arrives for the day.
+In practice, there should be a 15-minute break between writing projects to ease switching between projects.
+In addition, due to mental bandwidth limitations, it is easier to work on two parallel projects rather than three.
+
+The rest of the day can be spent on supportive activities for the writing projects like data analysis, figure preparation, slideshow preparation, literature retrieval, and reading.
+In reality, the remainder of the day is spent on supervising, teaching, meetings, and administrative chores.
 
 
 ## Update history
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.2 |  Added badges funding, and update table                                                                                                    | 2024 May 4           |
-| Version 0.2.1 | Elaborated on why and how to use this form.                                                                                              | 2024 June 2          |
+| Version 0.3 | Elaborated on why and how to use this form.  Added the wired variant and included an image                                                 | 2024 June 2          |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
