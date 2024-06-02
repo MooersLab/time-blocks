@@ -64,6 +64,7 @@ The recurring nature of these tasks bakes them into your daily schedule, so you 
 If you follow a rigid writing schedule for generative writing and write when you are unlikely to be disrupted, like before other workers show up, you could modify the form to contain one to three-time blocks of 90-180 minutes dedicated to a writing project.
 The example above shows three time blocks of 120, 90, and 90 minutes each.
 These are labeled writing blocks A, B, and C.
+As professional writers will admit, you can sustain only four to five hours of generative writing daily without burning out.
 
 You can assign these time blocks to different writing projects in the row at the top.
 The order of assignments could vary daily to break the temporal context.
