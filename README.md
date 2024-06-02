@@ -3,6 +3,9 @@
 
 # Form for flexible management of daily schedule as time blocks
 
+![Top of inaction.pdf](images/inaction.png)
+
+
 ## Problem addressed
 This form is meant to help academics who have to manage several writing projects (e.g., research articles, grant applications, progress reports, grant reviews, manuscript reviews, lectures, seminars, platform talks, letters of support, letters of recommendation, and books) in parallel. 
 They have a finite amount of time that they have to manage wisely.
