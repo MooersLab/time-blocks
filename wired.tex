@@ -1,0 +1,169 @@
+\documentclass{article}
+\usepackage{array}
+\usepackage{arydshln}
+% compiles with pdflatex
+\usepackage{helvet} % mimics helvetica or arial font
+\renewcommand{\familydefault}{\sfdefault}
+% MARGINS All spaces in this template are in inches, because it is formatted for US letter (8.5 x 11 inch) paper.
+\usepackage[margin=0.5in]{geometry}
+% Make better-looking tables with booktabs
+\usepackage{booktabs}
+
+
+\newlength\replength
+\newcommand\repfrac{.33}
+\newcommand\dashfrac[1]{\renewcommand\repfrac{#1}}
+\setlength\replength{1.5pt}
+\newcommand\rulewidth{.6pt}
+\newcommand\tdashfill[1][\repfrac]{\cleaders\hbox to \replength{%
+  \smash{\rule[\arraystretch\ht\strutbox]{\repfrac\replength}{\rulewidth}}}\hfill}
+\newcommand\tabdashline{%
+  \makebox[0pt][r]{\makebox[\tabcolsep]{\tdashfill\hfil}}\tdashfill\hfil%
+  \makebox[0pt][l]{\makebox[\tabcolsep]{\tdashfill\hfil}}%
+  \\[-\arraystretch\dimexpr\ht\strutbox+\dp\strutbox\relax]%
+}
+\newcommand\tdotfill[1][\repfrac]{\cleaders\hbox to \replength{%
+  \smash{\raisebox{\arraystretch\dimexpr\ht\strutbox-.1ex\relax}{.}}}\hfill}
+\newcommand\tabdotline{%
+  \makebox[0pt][r]{\makebox[\tabcolsep]{\tdotfill\hfil}}\tdotfill\hfil%
+  \makebox[0pt][l]{\makebox[\tabcolsep]{\tdotfill\hfil}}%
+  \\[-\arraystretch\dimexpr\ht\strutbox+\dp\strutbox\relax]%
+}
+
+\begin{document}
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}
+      {|m{1cm}:m{4cm}:m{4cm}:m{4cm}:m{4cm}|}\\
+      \toprule
+  Date:  &  & Block A: & Block B: & Block C:  \\
+             & & & & \\
+      \midrule
+
+           & & & & \\
+      \midrule
+   4:00   & Writing Block A  &  &  &  \\
+      &   &  &  &  \\
+       &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   5:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   6:00   & Writing Block B  &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   7:00   &   &  &  &  \\
+      &   &  &  &  \\ 
+     7:30  & Writing Block C  & & & \\ 
+      \tabdotline & \tabdotline & & & \\     
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   8:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   9:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   10:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   11:00   &   &  &  &  \\
+      &  &  &  &  \\
+            &  &  &  &  \\
+                  &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   12:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   13:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\
+         \bottomrule
+    \end{tabular}
+\end{table}
+
+\newpage
+
+\begin{table}
+    \centering
+    \begin{tabular}
+      {|m{1cm}:m{4cm}:m{4cm}:m{4cm}:m{4cm}|}
+   \toprule
+      Date:    & & & & \\
+      \midrule
+           & & & & \\
+      & & & & \\
+    \midrule
+14:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   15:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   16:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   17:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   18:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   19:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   20:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   21:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   22:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\ \midrule
+   23:00   &   &  &  &  \\
+      &   &  &  &  \\
+      &   &  &  &  \\
+      &  &  &  &  \\
+      &   &  &  &  \\
+         \bottomrule
+    \end{tabular}
+  \end{table}
+
+
+
+\end{document}
