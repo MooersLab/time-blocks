@@ -69,13 +69,19 @@ Also, the three writing projects selected can be varied during the course of a w
 I use a project number with a keyword as a memory prompt for the project's name.
 I have a simple system, but that is another story.
 
-The schedule for our superhuman academic hardwires five hours of progress on three vital writing projects before the first lab member arrives for the day.
+The schedule for our superhuman academic hardwires five hours of progress on three vital writing projects before the first lab member arrives at 9:00 a.m.
 In practice, there should be a 15-minute break between writing projects to ease switching between projects.
 In addition, due to mental bandwidth limitations, it is easier to work on two parallel projects rather than on three.
+The first three-hour block is enough time to accomplish a lot but not too long to exhaust oneself.
+The momentum for generative writing that has been built up can then be transferred to project B for 90-120 minutes.
 The file *wired2.pdf* has a three-hour time block for project A and a two-hour block for project B.
 
-The rest of the day can be spent on supportive activities for writing projects like data analysis, figure preparation, slideshow preparation, literature retrieval, and reading.
-In reality, the remainder of the day is often spent on supervising, teaching, meetings, and administrative chores.
+The rest of our fantasy day can be spent on supportive activities for the writing projects, such as data analysis, figure preparation, slideshow preparation, literature retrieval, and reading related papers to obtain new ideas for the next writing session.
+The remainder of the day is often spent instead on supervising, teaching, meetings, service, and administrative chores, but at least the vital writing activities have been accomplished.
+
+## Coming soon
+
+Variants of wired.tex translated to Markdown, Typst, and Org-mode to ease customization by non LaTeX users.
 
 
 ## Update history
