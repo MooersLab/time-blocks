@@ -4,23 +4,20 @@
 # Form for flexible management of daily schedule as time blocks
 
 ## Problem addressed
-This form is meant to help academics who have to manage several writing projects in parallel. 
-They have to get the impossible done in a finite amount of time.
-They have a lot of discretionary time that they have to manage wisely.
-Often, a range of time will be dedicated to a particular writing task.
-
+This form is meant to help academics who have to manage several writing projects (e.g., research articles, grant applications, progress reports, grant reviews, manuscript reviews, lectures, seminars, platform talks, letters of support, letters of recommendation, and books) in parallel. 
+They have a finite amount of time that they have to manage wisely.
+Often, a time range will be scheduled for a particular writing task.
 However, if the writing session is going well, many writers will continue writing and shift other discretionary tasks further down on their schedule.
-This downward shifting of other scheduled items is a pain when using pen and paper.
+This downward shifting of other tasks is a pain when using pen and paper.
 This can be done perhaps a little more easily in an electronic format.
-This might be the attraction of web services like Monday.com.
 
 However, I needed something simple that would work on paper.
-Cal Newport uses a simple approach described in his 2016 book *Deep work: Rules for focused success in a distracted world*.
+Dr. Cal Newport describes a simple approach in his 2016 book *Deep work: Rules for focused success in a distracted world*.
 He sets up several columns at the start of the day.
 The initial schedule goes in the leftmost column while the others remain blank. 
 As soon as a change in the schedule occurs, he writes the updated schedule in the next column to the right.
-This process is repeated as new changes occur to the schedule.
-This form is at the heart of Dr. Newport's comprehensive approach, which including TODO lists.
+This process is repeated as changes occur to the schedule.
+This form is at the heart of Dr. Newport's comprehensive approach, which includes to-do lists.
 He describes his full approach in his 2020 book *Time-Block Planner: A Daily Method of Deep Work in a Distracted World*.
 
 I do not follow his full approach because I manage my to-dos in *org-agenda* in *Emacs*.
@@ -53,8 +50,8 @@ The form eliminates the need to carry a ruler around all day to draw the columns
 
 ## Wired variant for recurring events
 
-The wired variant demonstrates how to be more efficient when recurring events occur, such as in a writing schedule.
-The recurring nature of these tasks hardwires them into your daily schedule, so you do not have to waste time and energy scheduling them.
+The wired variant *wired.pdf* demonstrates how to be more efficient when recurring events occur, such as in a writing schedule.
+The recurring nature of these tasks bakes them into your daily schedule, so you do not have to waste time and energy scheduling them.
 
 ![Top of wired.pdf](images/wired.png)
 
@@ -70,10 +67,10 @@ I have a simple system, but that is another story.
 
 The schedule for our superhuman academic hardwires five hours of progress on three vital writing projects before the first lab member arrives for the day.
 In practice, there should be a 15-minute break between writing projects to ease switching between projects.
-In addition, due to mental bandwidth limitations, it is easier to work on two parallel projects rather than three.
+In addition, due to mental bandwidth limitations, it is easier to work on two parallel projects rather than on three.
 
-The rest of the day can be spent on supportive activities for the writing projects like data analysis, figure preparation, slideshow preparation, literature retrieval, and reading.
-In reality, the remainder of the day is spent on supervising, teaching, meetings, and administrative chores.
+The rest of the day can be spent on supportive activities for writing projects like data analysis, figure preparation, slideshow preparation, literature retrieval, and reading.
+In reality, the remainder of the day is often spent on supervising, teaching, meetings, and administrative chores.
 
 
 ## Update history
