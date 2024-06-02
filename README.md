@@ -57,7 +57,9 @@ The form eliminates the need to carry a ruler around all day to draw the columns
 The wired variant *wired.pdf* demonstrates how to be more efficient when recurring events occur, such as in a writing schedule.
 The recurring nature of these tasks bakes them into your daily schedule, so you do not have to waste time and energy scheduling them.
 
-![Top of wired.pdf](images/wired.png)
+<p align="center">
+<img src="/images/wired.png" width="450" >
+</p>
 
 If you follow a rigid writing schedule for generative writing and write when you are unlikely to be disrupted, like before other workers show up, you could modify the form to contain one to three-time blocks of 90-180 minutes dedicated to a writing project.
 The example above shows three time blocks of 120, 90, and 90 minutes each.
