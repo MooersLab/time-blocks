@@ -3,7 +3,7 @@
 
 # Flexible management of daily schedule with time blocks
 
-<img src="/images/inaction.png" width="300" >
+<img src="/images/inaction.png" width="450" >
 
 ## Problem addressed
 This form is meant to help academics who have to manage several writing projects (e.g., research articles, grant applications, progress reports, grant reviews, manuscript reviews, lectures, seminars, platform talks, letters of support, letters of recommendation, and books) in parallel. 
