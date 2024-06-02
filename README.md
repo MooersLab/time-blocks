@@ -81,6 +81,12 @@ The file *wired2.pdf* has a three-hour time block for project A and a two-hour b
 The rest of our fantasy day can be spent on supportive activities for the writing projects, such as data analysis, figure preparation, slideshow preparation, literature retrieval, and reading related papers to obtain new ideas for the next writing session.
 The remainder of the day is often spent instead on supervising, teaching, meetings, service, and administrative chores, but at least the vital writing activities have been accomplished.
 
+If you print out a week's worth of forms, you can block out the recurring events and calendar events (e.g., classes, committee meetings, seminars, workshops)  throughout the week during a weekly planning session.
+This may reduce the time spent on daily planning at the start of the day and free it for generative writing.
+
+This approach can support the continuation of writing during traveling to scientific meetings and service on national committees.
+For service on grant review panels, it may be best to use the generative writing blocks to prepare presentations about grant applications being reviewed because these reviews require your full mental bandwidth.
+
 ## Coming soon
 
 Variants of wired.tex translated to Markdown, Typst, and Org-mode to ease customization by non LaTeX users.
