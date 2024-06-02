@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/static/v1?label=time-blocks&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Form for managing daily schedule as time blocks
+# Form for flexible management of daily schedule as time blocks
 
 ## Problem addressed
 This form is meant to help academics who have to manage several writing projects in parallel. 
@@ -15,11 +15,20 @@ This can be done perhaps a little more easily in an electronic format.
 This might be the attraction of web services like Monday.com.
 
 However, I needed something simple that would work on paper.
-Cal Newport uses a simple approach (Newport, C. (2016) Deep work: Rules for focused success in a distracted world. Hachette UK).
+Cal Newport uses a simple approach described in his 2016 book *Deep work: Rules for focused success in a distracted world*.
 He sets up several columns at the start of the day.
 The initial schedule goes in the leftmost column while the others remain blank. 
 As soon as a change in the schedule occurs, he writes the updated schedule in the next column to the right.
 This process is repeated as new changes occur to the schedule.
+This form is at the heart of Dr. Newport's comprehensive approach, which including TODO lists.
+He describes his full approach in his 2020 book *Time-Block Planner: A Daily Method of Deep Work in a Distracted World*.
+
+I do not follow his full approach because I manage my to-dos in *org-agenda* in *Emacs*.
+I should not need this paper form and should do everything in *org-agenda*.
+However, I like the portability and flexibility of the paper form.
+I carry it around with me on a clipboard.
+
+For visitors who are Emacsens, the table present here could be re-implemented as an org table in an org file.
 
 At the end of the day, you can reflect on the origins of the schedule changes and the amount of time required to complete certain tasks.
 This information informs the setting up of future schedules.
