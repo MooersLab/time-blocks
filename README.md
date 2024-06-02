@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/static/v1?label=time-blocks&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Flexible management of daily schedule as time blocks
+# Flexible management of daily schedule with time blocks
 
 ![Top of used main.pdf](images/inaction.png)
 
