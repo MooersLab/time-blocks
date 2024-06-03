@@ -25,12 +25,14 @@ This form is at the heart of Dr. Newport's comprehensive approach, which include
 He describes his full approach in his 2020 book *Time-Block Planner: A Daily Method of Deep Work in a Distracted World*.
 
 I do not follow his full approach because I manage my to-dos in *org-agenda* in *Emacs*.
-I should not need this paper form because I could do it in *org-agenda*.
-However, I like the portability and flexibility of the paper form.
+I would not need this paper form if org mode could handle time blocking.
+It currently lacks this ability so I will have to live this paper supplement.
+Nonetheless, I like the portability and flexibility of the paper form.
 I carry it around with me on a clipboard.
 
 For Emacsens, the table presented here could be re-implemented as an org table in an org file.
 It could also be re-implemented in Mardown and Typst.
+Plan to make such templates when time permits.
 
 At the end of the day, you can reflect on the origins of the schedule changes and the amount of time required to complete certain tasks.
 This information informs the setting up of future schedules.
