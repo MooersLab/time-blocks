@@ -51,8 +51,8 @@ The file `main.pdf` contains a two-page form.
 - If you must make more than three revised schedules, you have a time management problem!
 
 The PDF was generated from the `main.tex` file with LaTeX.
-Edit the `main.tex` file to suit your own schedule. 
-The form eliminates the need to carry a ruler around all day to draw the columns and time blocks.
+Edit the time in the leftmost column in `main.tex` file to suit your own schedule. 
+The form eliminates the need for a ruler to draw the columns and time blocks.
 
 ## Wired variant for recurring events
 
@@ -92,7 +92,7 @@ For service on grant review panels, it may be best to use the generative writing
 
 ## Coming soon
 
-Variants of wired.tex translated to Markdown, Typst, and Org-mode to ease customization by non LaTeX users.
+Variants of wired.tex translated to Markdown, Typst, and Org-mode to ease adoption and customization by non LaTeX users.
 
 
 ## Update history
