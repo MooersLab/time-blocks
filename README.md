@@ -30,9 +30,9 @@ It currently lacks this ability so I will have to live this paper supplement.
 Nonetheless, I like the portability and flexibility of the paper form.
 I carry it around with me on a clipboard.
 
-For Emacsens, the table presented here could be re-implemented as an org table in an org file.
+For Emacsens (a.k.a., Emacs users), the table presented here could be re-implemented as an org table in an org file.
 It could also be re-implemented in Mardown and Typst.
-Plan to make such templates when time permits.
+I plan to make such templates when time permits.
 
 At the end of the day, you can reflect on the origins of the schedule changes and the amount of time required to complete certain tasks.
 This information informs the setting up of future schedules.
